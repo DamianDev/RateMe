@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+body {
+  padding: 0;
+}
+
+.alignRight {
+  text-align: right;
+}
+
+.header a {
+  color: inherit;
+}

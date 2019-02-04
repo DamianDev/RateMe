@@ -1,0 +1,17 @@
+.card {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: left;
+}
+
+.form-control, .btnArea {
+    margin: 5px;
+    max-width: 300px;
+}
+
+.detailsBtn {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-end;
+}

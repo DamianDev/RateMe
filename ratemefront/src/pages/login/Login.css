@@ -1,0 +1,17 @@
+
+body {
+    padding: 20px;
+}
+
+.loginForm {
+    margin: 0 auto;
+    max-width: 320px;
+}
+  
+.paragraph {
+  margin-top: 10px;
+}
+
+.formItem {
+  margin-bottom: 20px;
+}

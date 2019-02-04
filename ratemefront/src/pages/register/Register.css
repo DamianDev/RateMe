@@ -1,0 +1,17 @@
+body {
+  padding: 20px;
+}
+
+.registerForm {
+  margin: 0 auto;
+  max-width: 320px;
+}
+
+.paragraph {
+  margin-top: 10px;
+}
+
+.errorMsg {
+  color: red;
+  margin-bottom: 10px;
+}
